@@ -1,0 +1,14 @@
+U:\SLAM4\Gestion_fichiers\Gestion_fichiers\bin\Debug\Gestion_fichiers.exe.config
+U:\SLAM4\Gestion_fichiers\Gestion_fichiers\bin\Debug\Gestion_fichiers.exe
+U:\SLAM4\Gestion_fichiers\Gestion_fichiers\bin\Debug\Gestion_fichiers.pdb
+U:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.csprojAssemblyReference.cache
+U:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.csproj.CoreCompileInputs.cache
+U:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.exe
+U:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.pdb
+P:\SLAM4\Gestion_fichiers\Gestion_fichiers\bin\Debug\Gestion_fichiers.exe.config
+P:\SLAM4\Gestion_fichiers\Gestion_fichiers\bin\Debug\Gestion_fichiers.exe
+P:\SLAM4\Gestion_fichiers\Gestion_fichiers\bin\Debug\Gestion_fichiers.pdb
+P:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.csprojAssemblyReference.cache
+P:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.csproj.CoreCompileInputs.cache
+P:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.exe
+P:\SLAM4\Gestion_fichiers\Gestion_fichiers\obj\Debug\Gestion_fichiers.pdb

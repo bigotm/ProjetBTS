@@ -1,0 +1,30 @@
+@startuml resto
+
+->Client:seat at table
+activate Client
+activate Serveur
+activate Cuisto
+Client->Serveur:order food
+Serveur->Cuisto:order food
+deactivate Client
+deactivate Serveur
+
+Serveur->Client:serve wine
+activate Serveur
+activate Client
+deactivate Serveur
+deactivate Client
+
+
+Cuisto->Serveur:Pickup
+activate Serveur
+activate Client
+Serveur->Client:serve food
+Client->Caissier:Pay
+
+
+
+
+
+
+@enduml

@@ -1,0 +1,2 @@
+P:\SLAM4\polymorphisme\polymor\polymor\obj\Debug\polymor.csprojAssemblyReference.cache
+P:\SLAM4\polymorphisme\polymor\polymor\obj\Debug\polymor.csproj.CoreCompileInputs.cache

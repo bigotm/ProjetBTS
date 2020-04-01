@@ -1,0 +1,7 @@
+P:\SLAM4\Tp_delegue\Tp_delegue\obj\Debug\Tp_delegue.csprojAssemblyReference.cache
+P:\SLAM4\Tp_delegue\Tp_delegue\obj\Debug\Tp_delegue.csproj.CoreCompileInputs.cache
+P:\SLAM4\Tp_delegue\Tp_delegue\bin\Debug\Tp_delegue.exe.config
+P:\SLAM4\Tp_delegue\Tp_delegue\bin\Debug\Tp_delegue.exe
+P:\SLAM4\Tp_delegue\Tp_delegue\bin\Debug\Tp_delegue.pdb
+P:\SLAM4\Tp_delegue\Tp_delegue\obj\Debug\Tp_delegue.exe
+P:\SLAM4\Tp_delegue\Tp_delegue\obj\Debug\Tp_delegue.pdb

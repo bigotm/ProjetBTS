@@ -1,0 +1,7 @@
+P:\SLAM4\Tp_delegue\Calculette\bin\Debug\Calculette.exe.config
+P:\SLAM4\Tp_delegue\Calculette\bin\Debug\Calculette.exe
+P:\SLAM4\Tp_delegue\Calculette\bin\Debug\Calculette.pdb
+P:\SLAM4\Tp_delegue\Calculette\obj\Debug\Calculette.csprojAssemblyReference.cache
+P:\SLAM4\Tp_delegue\Calculette\obj\Debug\Calculette.csproj.CoreCompileInputs.cache
+P:\SLAM4\Tp_delegue\Calculette\obj\Debug\Calculette.exe
+P:\SLAM4\Tp_delegue\Calculette\obj\Debug\Calculette.pdb

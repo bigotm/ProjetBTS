@@ -1,0 +1,7 @@
+P:\SLAM4\Resto\resto\resto\bin\Debug\resto.exe.config
+P:\SLAM4\Resto\resto\resto\bin\Debug\resto.exe
+P:\SLAM4\Resto\resto\resto\bin\Debug\resto.pdb
+P:\SLAM4\Resto\resto\resto\obj\Debug\resto.csprojAssemblyReference.cache
+P:\SLAM4\Resto\resto\resto\obj\Debug\resto.csproj.CoreCompileInputs.cache
+P:\SLAM4\Resto\resto\resto\obj\Debug\resto.exe
+P:\SLAM4\Resto\resto\resto\obj\Debug\resto.pdb

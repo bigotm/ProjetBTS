@@ -1,0 +1,7 @@
+P:\SLAM4\cd_video\Docu\Docu\obj\Debug\Docu.csprojAssemblyReference.cache
+P:\SLAM4\cd_video\Docu\Docu\obj\Debug\Docu.csproj.CoreCompileInputs.cache
+P:\SLAM4\cd_video\Docu\Docu\bin\Debug\Docu.exe.config
+P:\SLAM4\cd_video\Docu\Docu\bin\Debug\Docu.exe
+P:\SLAM4\cd_video\Docu\Docu\bin\Debug\Docu.pdb
+P:\SLAM4\cd_video\Docu\Docu\obj\Debug\Docu.exe
+P:\SLAM4\cd_video\Docu\Docu\obj\Debug\Docu.pdb
